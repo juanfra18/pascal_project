@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1381338938"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\salva\Desktop\TRABAJO FINAL\CONSULTORIO DENTISTA\lib\x86_64-win64&quot; &quot;-FuC:\Users\salva\Desktop\TRABAJO FINAL\CONSULTORIO DENTISTA\&quot; &quot;-FUC:\Users\salva\Desktop\TRABAJO FINAL\CONSULTORIO DENTISTA\lib\x86_64-win64\&quot; &quot;-FEC:\Users\salva\Desktop\TRABAJO FINAL\CONSULTORIO DENTISTA\&quot; &quot;-oC:\Users\salva\Desktop\TRABAJO FINAL\CONSULTORIO DENTISTA\programa_final.exe&quot; programa_final.lpr"/>
+</CONFIG>
